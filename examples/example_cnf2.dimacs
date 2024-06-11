@@ -1,0 +1,8 @@
+c Solution: 1 2 -3
+c Time: 1573.86 seconds
+c Solver: Kissat 3.1.0
+c CPU: AMD_Ryzen_Threadripper_PRO_5965WX_4.5_GHZ
+p cnf 5 3
+1 2 3 0
+-1 2 3 0
+-3 4 5 0
